@@ -1,0 +1,36 @@
+# Build and output files
+bin/
+obj/
+
+# User-specific settings
+*.user
+*.suo
+*.vspscc
+*.vssscc
+*.sln.cache
+*.sln.docstates
+
+# Visual Studio cache and temp files
+.vscode/
+.vs/
+.ipch/
+*.tlog
+*.log
+*.temp
+*.ncb
+*.aps
+*.ilk
+
+# Auto-generated files
+*.Designer.cs
+*.resx
+
+# Compiled binaries
+*.exe
+*.dll
+*.pdb
+*.cache
+*.csproj.user
+
+# Packages
+packages/
